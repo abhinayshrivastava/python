@@ -4,3 +4,5 @@ w_list.append("cat")
 cou = Counter(w_list)
 print("dof = ",cou.get("dog"))
 print("cat=",cou.get("cat"))
+
+print("Code Successfully Executed")
